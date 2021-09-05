@@ -1,0 +1,14 @@
+{
+  "name": "promise-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --inspect promise.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
